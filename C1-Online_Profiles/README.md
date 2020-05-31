@@ -10,9 +10,9 @@ For this assignment you will need to upload your resume and provide links to you
 https://github.com/DeniseMarie84
  
 ### LinkedIn
-https://www.linkedin.com/in/denise-williams-73596b43/
+https://www.linkedin.com/in/denisewilliamsonline/
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+https://docs.google.com/document/d/1nUwFQDTdcaG4qkCp-s1gGMlIwkz6JwLVWP_XjoYj5OE/edit?usp=sharing
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
